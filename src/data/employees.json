@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "employee_id": 90000,
+        "name": "Time",
+        "department": "\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23",
+        "position": "UI\/UX",
+        "year_joined": 7,
+        "salary": 40000
+    },
+    {
+        "id": 1,
+        "employee_id": 90000,
+        "name": "Time",
+        "department": "\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23",
+        "position": "UI\/UX",
+        "year_joined": 7,
+        "salary": 40000
+    },
+    {
+        "id": 2,
+        "employee_id": 123,
+        "name": "124",
+        "department": "\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23",
+        "position": "asd",
+        "year_joined": 3,
+        "salary": 33
+    },
+    {
+        "id": 3,
+        "employee_id": 123,
+        "name": "124",
+        "department": "\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23",
+        "position": "asd",
+        "year_joined": 3,
+        "salary": 33
+    }
+]
