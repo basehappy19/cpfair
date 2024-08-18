@@ -1,0 +1,10 @@
+services:
+  php-apache-environment:
+    container_name: php-cpfair
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./src:/var/www/html/
+    ports:
+      - "8080:80"
